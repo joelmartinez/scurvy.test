@@ -1,9 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNATest", "XNATest\XNATest.csproj", "{9F339A9B-201E-4D8E-B44A-3E25950BAE5A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scurvy.Test", "Scurvy.Test\Scurvy.Test.csproj", "{71B312F5-1697-4CBD-BE67-AC0D3C34D115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scurvy.Test.Android", "Scurvy.Test.Android\Scurvy.Test.Android.csproj", "{1A25481D-4E5C-4D0E-B421-AC9803A087D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +19,22 @@ Global
 		Release|Xbox 360 = Release|Xbox 360
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A25481D-4E5C-4D0E-B421-AC9803A087D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A25481D-4E5C-4D0E-B421-AC9803A087D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A25481D-4E5C-4D0E-B421-AC9803A087D6}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{1A25481D-4E5C-4D0E-B421-AC9803A087D6}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{1A25481D-4E5C-4D0E-B421-AC9803A087D6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1A25481D-4E5C-4D0E-B421-AC9803A087D6}.Debug|x86.Build.0 = Debug|Any CPU
+		{1A25481D-4E5C-4D0E-B421-AC9803A087D6}.Debug|Xbox 360.ActiveCfg = Debug|Any CPU
+		{1A25481D-4E5C-4D0E-B421-AC9803A087D6}.Debug|Xbox 360.Build.0 = Debug|Any CPU
+		{1A25481D-4E5C-4D0E-B421-AC9803A087D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A25481D-4E5C-4D0E-B421-AC9803A087D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A25481D-4E5C-4D0E-B421-AC9803A087D6}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{1A25481D-4E5C-4D0E-B421-AC9803A087D6}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{1A25481D-4E5C-4D0E-B421-AC9803A087D6}.Release|x86.ActiveCfg = Release|Any CPU
+		{1A25481D-4E5C-4D0E-B421-AC9803A087D6}.Release|x86.Build.0 = Release|Any CPU
+		{1A25481D-4E5C-4D0E-B421-AC9803A087D6}.Release|Xbox 360.ActiveCfg = Release|Any CPU
+		{1A25481D-4E5C-4D0E-B421-AC9803A087D6}.Release|Xbox 360.Build.0 = Release|Any CPU
 		{71B312F5-1697-4CBD-BE67-AC0D3C34D115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{71B312F5-1697-4CBD-BE67-AC0D3C34D115}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71B312F5-1697-4CBD-BE67-AC0D3C34D115}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
