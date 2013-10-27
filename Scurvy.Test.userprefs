@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="XNATest/Program.cs">
     <Files>
-      <File FileName="XNATest/Program.cs" Line="16" Column="31" />
+      <File FileName="XNATest/Program.cs" Line="20" Column="47" />
       <File FileName="Scurvy.Test/TestRunner.cs" Line="1" Column="1" />
       <File FileName="Scurvy.Test/TestContext.cs" Line="1" Column="1" />
     </Files>
